@@ -31,9 +31,6 @@ To implement an IoT-based environmental monitoring application using Raspberry P
 
 ---
 
-# Circuit Connections
-
-
 
 # IoT Application
 
