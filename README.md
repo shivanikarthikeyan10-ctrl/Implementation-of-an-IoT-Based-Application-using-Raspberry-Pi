@@ -189,6 +189,7 @@ while True:
 # Observation
 <img width="1186" height="920" alt="image" src="https://github.com/user-attachments/assets/400e332f-0ca5-4262-af35-df80042a8ef7" />
 
+<img width="1600" height="1341" alt="image" src="https://github.com/user-attachments/assets/2ebb4dba-dbe0-4077-9b8c-fbff6f0ce0d4" />
 
 
 # Result
